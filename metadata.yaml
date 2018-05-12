@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31932
     wikipedia: http://en.wikipedia.org/wiki/Hans_Aanrud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26348#Lisbeth-Longfrock
 gutenberg_issued: '2008-08-18'
 gutenberg_type: Text
 identifiers:
