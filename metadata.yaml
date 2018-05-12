@@ -1,0 +1,41 @@
+_repo: Lisbeth-Longfrock_26348
+_version: 0.1.0
+alternative_title: Sidsel Sidsærk. English
+contributor:
+  illustrator:
+    agent_name: Holmboe, Othar
+    gutenberg_agent_id: '31934'
+    url: http://www.gutenberg.org/2009/agents/31934
+  translator:
+    agent_name: Poulsson, Laura E. (Laura Elizabeth)
+    birthdate: 1851
+    gutenberg_agent_id: '31933'
+    url: http://www.gutenberg.org/2009/agents/31933
+covers:
+- cover_type: archival
+  image_path: 26348-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aanrud, Hans
+    birthdate: 1863
+    deathdate: 1953
+    gutenberg_agent_id: '31932'
+    url: http://www.gutenberg.org/2009/agents/31932
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Aanrud
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Norway -- Juvenile fiction'
+title: Lisbeth Longfrock
+url: http://www.gutenberg.org/ebooks/26348
